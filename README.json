@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T01:50:40Z",
+            "last_commit": "2026-08-13T09:44:28Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T01:50:40Z",
+            "last_commit": "2026-08-13T09:44:28Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T01:50:40Z",
+            "last_commit": "2026-08-13T09:44:28Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T00:27:24Z",
+            "last_commit": "2026-08-13T08:08:38Z",
             "owner": "Azure",
             "repo": "bicep-registry-modules",
             "stars": 734
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-11T16:20:46Z",
+            "last_commit": "2026-08-13T12:23:51Z",
             "owner": "Azure",
             "repo": "Azure-Verified-Modules",
             "stars": 574
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-11T14:40:45Z",
             "owner": "microsoftgraph",
             "repo": "msgraph-bicep-types",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -899,7 +899,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-07T13:07:39Z",
+            "last_commit": "2026-08-13T08:16:07Z",
             "owner": "builtwithcaffeine",
             "repo": "bwc-bicep-repository",
             "stars": 1
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:28:32.180Z",
+    "last_updated": "2026-08-13T14:34:06.084Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
