@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-14T13:58:28Z",
+            "last_commit": "2026-08-15T11:56:14Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-14T13:58:28Z",
+            "last_commit": "2026-08-15T11:56:14Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-14T13:58:28Z",
+            "last_commit": "2026-08-15T11:56:14Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-13T20:38:22Z",
             "owner": "Azure",
             "repo": "Azure-Verified-Modules",
-            "stars": 575
+            "stars": 576
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:26:49.482Z",
+    "last_updated": "2026-08-15T13:45:14.919Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
