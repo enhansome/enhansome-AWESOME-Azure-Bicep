@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-15T11:56:14Z",
+            "last_commit": "2026-08-16T09:34:41Z",
             "owner": "Azure",
             "repo": "bicep",
-            "stars": 3629
+            "stars": 3630
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-15T11:56:14Z",
+            "last_commit": "2026-08-16T09:34:41Z",
             "owner": "Azure",
             "repo": "bicep",
-            "stars": 3629
+            "stars": 3630
           }
         }
       ],
@@ -50,10 +50,10 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-15T11:56:14Z",
+            "last_commit": "2026-08-16T09:34:41Z",
             "owner": "Azure",
             "repo": "bicep",
-            "stars": 3629
+            "stars": 3630
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-03T09:04:19Z",
             "owner": "Azure",
             "repo": "ALZ-Bicep",
-            "stars": 884
+            "stars": 885
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-08-28T14:43:13Z",
             "owner": "Azure",
             "repo": "ResourceModules",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-14T12:41:24Z",
+            "last_commit": "2026-08-15T14:25:26Z",
             "owner": "Azure",
             "repo": "bicep-registry-modules",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-13T20:38:22Z",
             "owner": "Azure",
             "repo": "Azure-Verified-Modules",
-            "stars": 576
+            "stars": 577
           }
         },
         {
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-03T10:37:21Z",
+            "last_commit": "2026-08-16T09:34:22Z",
             "owner": "Azure",
             "repo": "AKS-Construction",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T13:39:05Z",
+            "last_commit": "2026-08-16T13:40:12Z",
             "owner": "Azure",
             "repo": "bicep-types-az",
             "stars": 109
@@ -179,7 +179,7 @@
             "last_commit": "2023-12-05T16:48:25Z",
             "owner": "Azure",
             "repo": "azure-docs-bicep-samples",
-            "stars": 97
+            "stars": 98
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2024-04-20T04:59:58Z",
             "owner": "globalbao",
             "repo": "azure-policy-as-code",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-09T08:32:36Z",
             "owner": "PSBicep",
             "repo": "PSBicep",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:45:14.919Z",
+    "last_updated": "2026-08-16T13:46:09.560Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
