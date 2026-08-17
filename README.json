@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-16T09:34:41Z",
+            "last_commit": "2026-08-17T09:24:51Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3630
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-16T09:34:41Z",
+            "last_commit": "2026-08-17T09:24:51Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3630
@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-16T09:34:41Z",
+            "last_commit": "2026-08-17T09:24:51Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3630
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-15T14:25:26Z",
+            "last_commit": "2026-08-17T13:06:34Z",
             "owner": "Azure",
             "repo": "bicep-registry-modules",
             "stars": 735
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-13T20:38:22Z",
+            "last_commit": "2026-08-17T10:21:55Z",
             "owner": "Azure",
             "repo": "Azure-Verified-Modules",
             "stars": 577
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-10T02:15:30Z",
+            "last_commit": "2026-08-17T02:02:21Z",
             "owner": "Azure",
             "repo": "PSRule.Rules.Azure",
             "stars": 447
@@ -585,20 +585,6 @@
         },
         {
           "node_type": "item",
-          "title": "Ba4bes/Bicep-NamingConvention",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2022-01-16T18:31:47Z",
-            "owner": "Ba4bes",
-            "repo": "Bicep-NamingConvention",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
           "title": "brianveldman/bicep-ready-to-use-solutions",
           "description": null,
           "children": [],
@@ -608,6 +594,20 @@
             "last_commit": "2026-07-06T14:52:42Z",
             "owner": "brianveldman",
             "repo": "azure-bicep",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ba4bes/Bicep-NamingConvention",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2022-01-16T18:31:47Z",
+            "owner": "Ba4bes",
+            "repo": "Bicep-NamingConvention",
             "stars": 23
           }
         },
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:46:09.560Z",
+    "last_updated": "2026-08-17T13:54:55.633Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
