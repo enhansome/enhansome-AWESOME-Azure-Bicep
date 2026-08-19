@@ -1,917 +1,980 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": "Links below are from official Microsoft sources, websites, and channels.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Official Azure Bicep Releases",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263503250,
+                "language": "Bicep",
+                "last_commit": "2026-08-19T09:29:54Z",
+                "owner": "Azure",
+                "repo": "bicep",
+                "stars": 3631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project Bicep - an ARM DSL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263503250,
+                "language": "Bicep",
+                "last_commit": "2026-08-19T09:29:54Z",
+                "owner": "Azure",
+                "repo": "bicep",
+                "stars": 3631
+              }
+            }
+          ],
+          "description": "Back To Top",
+          "node_type": "group",
+          "title": "Official Docs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Bicep - an ARM DSL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263503250,
+                "language": "Bicep",
+                "last_commit": "2026-08-19T09:29:54Z",
+                "owner": "Azure",
+                "repo": "bicep",
+                "stars": 3631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Landing Zones (ALZ) - Bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396743838,
+                "language": "Bicep",
+                "last_commit": "2026-08-18T08:07:41Z",
+                "owner": "Azure",
+                "repo": "ALZ-Bicep",
+                "stars": 885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Common Azure Resource Modules Library (CARML)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397411013,
+                "language": "PowerShell",
+                "last_commit": "2025-08-28T14:43:13Z",
+                "owner": "Azure",
+                "repo": "ResourceModules",
+                "stars": 737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Registry Modules",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447791597,
+                "language": "Bicep",
+                "last_commit": "2026-08-18T23:09:44Z",
+                "owner": "Azure",
+                "repo": "bicep-registry-modules",
+                "stars": 735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Verified Modules (AVM)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660211576,
+                "language": "PowerShell",
+                "last_commit": "2026-08-19T12:02:57Z",
+                "owner": "Azure",
+                "repo": "Azure-Verified-Modules",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSRule for Azure - A suite of rules to test Azure resources and Infrastructure as Code (IaC) using PSRule, including Bicep syntax",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184154668,
+                "language": "PowerShell",
+                "last_commit": "2026-08-17T02:02:21Z",
+                "owner": "Azure",
+                "repo": "PSRule.Rules.Azure",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AKS Bicep Accelerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379248577,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T09:34:22Z",
+                "owner": "Azure",
+                "repo": "AKS-Construction",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Template Best Practice Analyzer (BPA)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308101115,
+                "language": "C#",
+                "last_commit": "2026-01-08T23:51:51Z",
+                "owner": "Azure",
+                "repo": "template-analyzer",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep type definitions for ARM resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299675717,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T13:40:12Z",
+                "owner": "Azure",
+                "repo": "bicep-types-az",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep samples for documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 392102357,
+                "language": "Bicep",
+                "last_commit": "2023-12-05T16:48:25Z",
+                "owner": "Azure",
+                "repo": "azure-docs-bicep-samples",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Spring Apps Reference Architecture - Bicep template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 314090018,
+                "language": "HCL",
+                "last_commit": "2024-02-15T14:21:57Z",
+                "owner": "Azure",
+                "repo": "azure-spring-apps-landing-zone-accelerator",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microsoft Graph Bicep extension (public preview)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642474913,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T14:40:45Z",
+                "owner": "microsoftgraph",
+                "repo": "msgraph-bicep-types",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Authoring Devcontainer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 298400853,
+                "language": "Dockerfile",
+                "last_commit": "2023-02-09T17:01:16Z",
+                "owner": "Azure",
+                "repo": "vscode-remote-try-bicep",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Testing Framework (BenchPress)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 484593116,
+                "language": "PowerShell",
+                "last_commit": "2025-01-10T17:24:36Z",
+                "owner": "Azure",
+                "repo": "benchpress",
+                "stars": 61
+              }
+            }
+          ],
+          "description": "Back To Top",
+          "node_type": "group",
+          "title": "Official Repositories"
+        }
+      ],
       "title": "Official"
     },
     {
-      "description": "Back To Top",
+      "description": "Links below are from community sources, websites, and channels.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Official Azure Bicep Releases",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-08-18T13:48:40Z",
-            "owner": "Azure",
-            "repo": "bicep",
-            "stars": 3631
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure DevOps Bicep Local Deploy extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1034024547,
+                "language": "C#",
+                "last_commit": "2026-06-21T13:32:11Z",
+                "owner": "johnlokerse",
+                "repo": "azure-devops-bicep-local-deploy",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 974442944,
+                "language": "PowerShell",
+                "last_commit": "2025-06-21T02:57:56Z",
+                "owner": "kewalaka",
+                "repo": "az-bootstrap",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512793578,
+                "language": "Bicep",
+                "last_commit": "2026-04-30T15:33:13Z",
+                "owner": "Azure4DevOps",
+                "repo": "check-azure-bicep",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Databricks Bicep Local Deploy extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032236922,
+                "language": "C#",
+                "last_commit": "2025-12-15T20:36:12Z",
+                "owner": "Gijsreyn",
+                "repo": "bicep-ext-databricks",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Resource Name Generator PowerShell Module - Bicep files generation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1048022989,
+                "language": "PowerShell",
+                "last_commit": "2026-03-16T10:30:23Z",
+                "owner": "mimachniak",
+                "repo": "AzureResources-NameGenerator",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Local Extension - Password Generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054149154,
+                "language": "C#",
+                "last_commit": "2026-04-02T19:44:41Z",
+                "owner": "mimachniak",
+                "repo": "bicep-ext-PassWordGenerator",
+                "stars": 3
+              }
+            }
+          ],
+          "description": "Back To Top",
+          "node_type": "group",
+          "title": "Community Tools"
         },
         {
-          "node_type": "item",
-          "title": "Project Bicep - an ARM DSL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-08-18T13:48:40Z",
-            "owner": "Azure",
-            "repo": "bicep",
-            "stars": 3631
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125832556,
+                "language": "C#",
+                "last_commit": "2026-08-18T15:06:03Z",
+                "owner": "microsoft",
+                "repo": "PSRule",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "globalbao/azure-policy-as-code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344983232,
+                "language": "HCL",
+                "last_commit": "2024-04-20T04:59:58Z",
+                "owner": "globalbao",
+                "repo": "azure-policy-as-code",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Deployment Framework",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304788045,
+                "language": "Bicep",
+                "last_commit": "2024-05-18T22:30:19Z",
+                "owner": "brwilkinson",
+                "repo": "AzureDeploymentFramework",
+                "stars": 171
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "azure-cloud-ai-visualizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1080051152,
+                "language": "TypeScript",
+                "last_commit": "2026-01-05T08:38:21Z",
+                "owner": "error505",
+                "repo": "azure-cloud-ai-visualizer",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSBicep - Bicep PowerShell Module",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328992376,
+                "language": "PowerShell",
+                "last_commit": "2026-08-18T18:55:52Z",
+                "owner": "PSBicep",
+                "repo": "PSBicep",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "johnlokerse/azure-bicep-cheat-sheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705228806,
+                "language": null,
+                "last_commit": "2025-04-13T14:51:53Z",
+                "owner": "johnlokerse",
+                "repo": "azure-bicep-cheat-sheet",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "riosengineer/Bicepify - Easy to digest Bicep concept demo examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693753445,
+                "language": "Bicep",
+                "last_commit": "2026-01-21T11:28:08Z",
+                "owner": "riosengineer",
+                "repo": "Bicepify",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jamesatighe/AVD-BICEP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383795143,
+                "language": "Bicep",
+                "last_commit": "2024-05-22T21:06:09Z",
+                "owner": "jamesatighe",
+                "repo": "AVD-BICEP",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Agentic InfraOps Accelerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1112425737,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T07:44:20Z",
+                "owner": "jonathan-vella",
+                "repo": "apex-accelerator",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fberson/wvd",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261395228,
+                "language": "PowerShell",
+                "last_commit": "2022-11-17T07:23:48Z",
+                "owner": "fberson",
+                "repo": "wvd",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "christosgalano/bicep-docs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738944486,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:04:31Z",
+                "owner": "christosgalano",
+                "repo": "bicep-docs",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Packt Publishing - IaC with Azure Bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388327541,
+                "language": "Bicep",
+                "last_commit": "2023-01-30T08:49:54Z",
+                "owner": "PacktPublishing",
+                "repo": "Infrastructure-as-Code-with-Azure-Bicep",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376035251,
+                "language": null,
+                "last_commit": "2022-08-29T08:01:27Z",
+                "owner": "fberson",
+                "repo": "Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElYusubov/Learn-Bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403166628,
+                "language": "Bicep",
+                "last_commit": "2025-11-13T02:21:02Z",
+                "owner": "ElYusubov",
+                "repo": "Learn-Bicep",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Guide (advanced)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 476748979,
+                "language": "Shell",
+                "last_commit": "2026-06-30T20:52:05Z",
+                "owner": "nnellans",
+                "repo": "bicep-guide",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lordlinus/databricks-all-in-one-bicep-template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387993996,
+                "language": "Bicep",
+                "last_commit": "2021-08-13T04:58:26Z",
+                "owner": "lordlinus",
+                "repo": "databricks-all-in-one-bicep-template",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scautomation/Bicep-AzureMonitor-Sentinel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359511503,
+                "language": "Bicep",
+                "last_commit": "2023-03-16T19:32:05Z",
+                "owner": "scautomation",
+                "repo": "Bicep-AzureMonitor-Sentinel",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brianveldman/bicep-ready-to-use-solutions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701502145,
+                "language": "Bicep",
+                "last_commit": "2026-07-06T14:52:42Z",
+                "owner": "brianveldman",
+                "repo": "azure-bicep",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ba4bes/Bicep-NamingConvention",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 415637633,
+                "language": "Bicep",
+                "last_commit": "2022-01-16T18:31:47Z",
+                "owner": "Ba4bes",
+                "repo": "Bicep-NamingConvention",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gbaeke/aks-bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362187491,
+                "language": "Bicep",
+                "last_commit": "2021-06-26T11:59:18Z",
+                "owner": "gbaeke",
+                "repo": "aks-bicep",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jaydestro/aksbicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394367500,
+                "language": "Bicep",
+                "last_commit": "2021-11-29T15:43:46Z",
+                "owner": "jaydestro",
+                "repo": "aksbicep",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kevinevans1/learn-azure-bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 531324387,
+                "language": null,
+                "last_commit": "2023-02-03T00:21:51Z",
+                "owner": "kevinevans1",
+                "repo": "learn-azure-bicep",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Bicep Workshop - Deploy full stack app in Azure",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479857395,
+                "language": "Bicep",
+                "last_commit": "2025-06-07T11:48:55Z",
+                "owner": "erudinsky",
+                "repo": "Azure-Bicep-Workshop",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Databricks extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1032236922,
+                "language": "C#",
+                "last_commit": "2025-12-15T20:36:12Z",
+                "owner": "Gijsreyn",
+                "repo": "bicep-ext-databricks",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NimbusIQ - AI Cloud Architect with Azure Bicep infrastructure deployment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182032345,
+                "language": "C#",
+                "last_commit": "2026-04-23T21:49:28Z",
+                "owner": "lukemurraynz",
+                "repo": "NimbusIQ",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSBicep/BicepNet - A thin wrapper around Bicep that will load all bicep assemblies in a separate context",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 380843075,
+                "language": "C#",
+                "last_commit": "2024-10-07T17:14:00Z",
+                "owner": "PSBicep",
+                "repo": "BicepNet",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "your-azure-coach/bicep-azdevops",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408928898,
+                "language": "C#",
+                "last_commit": "2022-03-30T08:13:02Z",
+                "owner": "your-azure-coach",
+                "repo": "bicep-azdevops",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349211623,
+                "language": "Bicep",
+                "last_commit": "2025-06-26T10:14:41Z",
+                "owner": "maikvandergaag",
+                "repo": "bicep",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "johnlokerse/bicep-snippets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 535994437,
+                "language": "Bicep",
+                "last_commit": "2024-10-14T11:22:37Z",
+                "owner": "johnlokerse",
+                "repo": "bicep-snippets",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Welasco/Bicep - Create Private AKS Cluster using Bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370852238,
+                "language": "Bicep",
+                "last_commit": "2021-09-14T21:26:13Z",
+                "owner": "Welasco",
+                "repo": "Bicep",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Bicep MCP Server Integration with other AI tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115733642,
+                "language": "PowerShell",
+                "last_commit": "2026-02-15T13:23:45Z",
+                "owner": "johnlokerse",
+                "repo": "azure-bicep-mcp-integration-setup",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep HTTP Extension",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1045661309,
+                "language": "C#",
+                "last_commit": "2025-10-06T07:30:27Z",
+                "owner": "maikvandergaag",
+                "repo": "bicep-ext-http",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Deploy What-If Without Write Permissions Demo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994230684,
+                "language": "Bicep",
+                "last_commit": "2026-07-14T13:06:35Z",
+                "owner": "matsest",
+                "repo": "bicep-deploy-whatif-without-write-demo",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Local Deploy doc generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1055898777,
+                "language": "C#",
+                "last_commit": "2026-01-01T07:19:37Z",
+                "owner": "Gijsreyn",
+                "repo": "bicep-local-docgen",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Update Manager Accelerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723949889,
+                "language": "Bicep",
+                "last_commit": "2024-05-01T15:57:13Z",
+                "owner": "ThojoUno",
+                "repo": "aumAccelerator",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Governance-with-Bicep",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154099302,
+                "language": "Bicep",
+                "last_commit": "2026-05-15T19:13:33Z",
+                "owner": "ElYusubov",
+                "repo": "Governance-with-Bicep",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971333257,
+                "language": "Bicep",
+                "last_commit": "2025-05-07T12:08:32Z",
+                "owner": "slavizh",
+                "repo": "azure-bootcamp-2025",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AVM Resource Module: App Agent",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230310727,
+                "language": "Bicep",
+                "last_commit": "2026-05-12T22:39:21Z",
+                "owner": "lukemurraynz",
+                "repo": "avm-res-app-agent",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bicep Local Samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 966030547,
+                "language": "Bicep",
+                "last_commit": "2026-05-07T13:27:10Z",
+                "owner": "maikvandergaag",
+                "repo": "msft-bicep-local",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BuiltWithCaffeine - Bicep Snippets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894725791,
+                "language": "PowerShell",
+                "last_commit": "2026-08-13T08:16:07Z",
+                "owner": "builtwithcaffeine",
+                "repo": "bwc-bicep-repository",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "Back To Top",
+          "node_type": "group",
+          "title": "Community Repositories"
         }
       ],
-      "title": "Official Docs"
-    },
-    {
-      "description": "Back To Top",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Project Bicep - an ARM DSL",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-08-18T13:48:40Z",
-            "owner": "Azure",
-            "repo": "bicep",
-            "stars": 3631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Landing Zones (ALZ) - Bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-08-18T08:07:41Z",
-            "owner": "Azure",
-            "repo": "ALZ-Bicep",
-            "stars": 885
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Common Azure Resource Modules Library (CARML)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-08-28T14:43:13Z",
-            "owner": "Azure",
-            "repo": "ResourceModules",
-            "stars": 737
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Registry Modules",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-08-18T07:57:34Z",
-            "owner": "Azure",
-            "repo": "bicep-registry-modules",
-            "stars": 735
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Verified Modules (AVM)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-08-17T10:21:55Z",
-            "owner": "Azure",
-            "repo": "Azure-Verified-Modules",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSRule for Azure - A suite of rules to test Azure resources and Infrastructure as Code (IaC) using PSRule, including Bicep syntax",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-08-17T02:02:21Z",
-            "owner": "Azure",
-            "repo": "PSRule.Rules.Azure",
-            "stars": 447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AKS Bicep Accelerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T09:34:22Z",
-            "owner": "Azure",
-            "repo": "AKS-Construction",
-            "stars": 376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Template Best Practice Analyzer (BPA)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-01-08T23:51:51Z",
-            "owner": "Azure",
-            "repo": "template-analyzer",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep type definitions for ARM resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T13:40:12Z",
-            "owner": "Azure",
-            "repo": "bicep-types-az",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep samples for documentation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Bicep",
-            "last_commit": "2023-12-05T16:48:25Z",
-            "owner": "Azure",
-            "repo": "azure-docs-bicep-samples",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Spring Apps Reference Architecture - Bicep template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HCL",
-            "last_commit": "2024-02-15T14:21:57Z",
-            "owner": "Azure",
-            "repo": "azure-spring-apps-landing-zone-accelerator",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft Graph Bicep extension (public preview)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T14:40:45Z",
-            "owner": "microsoftgraph",
-            "repo": "msgraph-bicep-types",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Authoring Devcontainer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Dockerfile",
-            "last_commit": "2023-02-09T17:01:16Z",
-            "owner": "Azure",
-            "repo": "vscode-remote-try-bicep",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Testing Framework (BenchPress)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PowerShell",
-            "last_commit": "2025-01-10T17:24:36Z",
-            "owner": "Azure",
-            "repo": "benchpress",
-            "stars": 61
-          }
-        }
-      ],
-      "title": "Official Repositories"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Community"
-    },
-    {
-      "description": "Back To Top",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Azure DevOps Bicep Local Deploy extension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-21T13:32:11Z",
-            "owner": "johnlokerse",
-            "repo": "azure-devops-bicep-local-deploy",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2025-06-21T02:57:56Z",
-            "owner": "kewalaka",
-            "repo": "az-bootstrap",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-04-30T15:33:13Z",
-            "owner": "Azure4DevOps",
-            "repo": "check-azure-bicep",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Databricks Bicep Local Deploy extension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-15T20:36:12Z",
-            "owner": "Gijsreyn",
-            "repo": "bicep-ext-databricks",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Resource Name Generator PowerShell Module - Bicep files generation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-03-16T10:30:23Z",
-            "owner": "mimachniak",
-            "repo": "AzureResources-NameGenerator",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Local Extension - Password Generator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-02T19:44:41Z",
-            "owner": "mimachniak",
-            "repo": "bicep-ext-PassWordGenerator",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Bicep Linting Action",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Community Tools"
-    },
-    {
-      "description": "Back To Top",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T14:56:20Z",
-            "owner": "microsoft",
-            "repo": "PSRule",
-            "stars": 470
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "globalbao/azure-policy-as-code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2024-04-20T04:59:58Z",
-            "owner": "globalbao",
-            "repo": "azure-policy-as-code",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Deployment Framework",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2024-05-18T22:30:19Z",
-            "owner": "brwilkinson",
-            "repo": "AzureDeploymentFramework",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "azure-cloud-ai-visualizer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-05T08:38:21Z",
-            "owner": "error505",
-            "repo": "azure-cloud-ai-visualizer",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSBicep - Bicep PowerShell Module",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-08-09T08:32:36Z",
-            "owner": "PSBicep",
-            "repo": "PSBicep",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "johnlokerse/azure-bicep-cheat-sheet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-13T14:51:53Z",
-            "owner": "johnlokerse",
-            "repo": "azure-bicep-cheat-sheet",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "riosengineer/Bicepify - Easy to digest Bicep concept demo examples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-01-21T11:28:08Z",
-            "owner": "riosengineer",
-            "repo": "Bicepify",
-            "stars": 137
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jamesatighe/AVD-BICEP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2024-05-22T21:06:09Z",
-            "owner": "jamesatighe",
-            "repo": "AVD-BICEP",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Agentic InfraOps Accelerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T07:44:20Z",
-            "owner": "jonathan-vella",
-            "repo": "apex-accelerator",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fberson/wvd",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2022-11-17T07:23:48Z",
-            "owner": "fberson",
-            "repo": "wvd",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "christosgalano/bicep-docs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:04:31Z",
-            "owner": "christosgalano",
-            "repo": "bicep-docs",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Packt Publishing - IaC with Azure Bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2023-01-30T08:49:54Z",
-            "owner": "PacktPublishing",
-            "repo": "Infrastructure-as-Code-with-Azure-Bicep",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-08-29T08:01:27Z",
-            "owner": "fberson",
-            "repo": "Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ElYusubov/Learn-Bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2025-11-13T02:21:02Z",
-            "owner": "ElYusubov",
-            "repo": "Learn-Bicep",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Guide (advanced)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-30T20:52:05Z",
-            "owner": "nnellans",
-            "repo": "bicep-guide",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lordlinus/databricks-all-in-one-bicep-template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2021-08-13T04:58:26Z",
-            "owner": "lordlinus",
-            "repo": "databricks-all-in-one-bicep-template",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scautomation/Bicep-AzureMonitor-Sentinel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2023-03-16T19:32:05Z",
-            "owner": "scautomation",
-            "repo": "Bicep-AzureMonitor-Sentinel",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brianveldman/bicep-ready-to-use-solutions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-07-06T14:52:42Z",
-            "owner": "brianveldman",
-            "repo": "azure-bicep",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ba4bes/Bicep-NamingConvention",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2022-01-16T18:31:47Z",
-            "owner": "Ba4bes",
-            "repo": "Bicep-NamingConvention",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gbaeke/aks-bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2021-06-26T11:59:18Z",
-            "owner": "gbaeke",
-            "repo": "aks-bicep",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jaydestro/aksbicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2021-11-29T15:43:46Z",
-            "owner": "jaydestro",
-            "repo": "aksbicep",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kevinevans1/learn-azure-bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-03T00:21:51Z",
-            "owner": "kevinevans1",
-            "repo": "learn-azure-bicep",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Bicep Workshop - Deploy full stack app in Azure",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2025-06-07T11:48:55Z",
-            "owner": "erudinsky",
-            "repo": "Azure-Bicep-Workshop",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Databricks extension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-15T20:36:12Z",
-            "owner": "Gijsreyn",
-            "repo": "bicep-ext-databricks",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NimbusIQ - AI Cloud Architect with Azure Bicep infrastructure deployment",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-23T21:49:28Z",
-            "owner": "lukemurraynz",
-            "repo": "NimbusIQ",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSBicep/BicepNet - A thin wrapper around Bicep that will load all bicep assemblies in a separate context",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-10-07T17:14:00Z",
-            "owner": "PSBicep",
-            "repo": "BicepNet",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "your-azure-coach/bicep-azdevops",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-03-30T08:13:02Z",
-            "owner": "your-azure-coach",
-            "repo": "bicep-azdevops",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2025-06-26T10:14:41Z",
-            "owner": "maikvandergaag",
-            "repo": "bicep",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "johnlokerse/bicep-snippets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2024-10-14T11:22:37Z",
-            "owner": "johnlokerse",
-            "repo": "bicep-snippets",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Welasco/Bicep - Create Private AKS Cluster using Bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2021-09-14T21:26:13Z",
-            "owner": "Welasco",
-            "repo": "Bicep",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Bicep MCP Server Integration with other AI tools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-02-15T13:23:45Z",
-            "owner": "johnlokerse",
-            "repo": "azure-bicep-mcp-integration-setup",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep HTTP Extension",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-10-06T07:30:27Z",
-            "owner": "maikvandergaag",
-            "repo": "bicep-ext-http",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Deploy What-If Without Write Permissions Demo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-07-14T13:06:35Z",
-            "owner": "matsest",
-            "repo": "bicep-deploy-whatif-without-write-demo",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Local Deploy doc generator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-01-01T07:19:37Z",
-            "owner": "Gijsreyn",
-            "repo": "bicep-local-docgen",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Update Manager Accelerator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2024-05-01T15:57:13Z",
-            "owner": "ThojoUno",
-            "repo": "aumAccelerator",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Governance-with-Bicep",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-05-15T19:13:33Z",
-            "owner": "ElYusubov",
-            "repo": "Governance-with-Bicep",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2025-05-07T12:08:32Z",
-            "owner": "slavizh",
-            "repo": "azure-bootcamp-2025",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AVM Resource Module: App Agent",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-05-12T22:39:21Z",
-            "owner": "lukemurraynz",
-            "repo": "avm-res-app-agent",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bicep Local Samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2026-05-07T13:27:10Z",
-            "owner": "maikvandergaag",
-            "repo": "msft-bicep-local",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BuiltWithCaffeine - Bicep Snippets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2026-08-13T08:16:07Z",
-            "owner": "builtwithcaffeine",
-            "repo": "bwc-bicep-repository",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Community Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:58:46.798Z",
+    "last_updated": "2026-08-19T12:05:57.075Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
+    "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
     "enhanced_repository_description": null,
