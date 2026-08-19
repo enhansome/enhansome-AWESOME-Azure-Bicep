@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 299675717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T13:40:12Z",
+                "last_commit": "2026-08-19T13:42:52Z",
                 "owner": "Azure",
                 "repo": "bicep-types-az",
                 "stars": 109
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:05:57.075Z",
+    "last_updated": "2026-08-19T13:59:28.556Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
