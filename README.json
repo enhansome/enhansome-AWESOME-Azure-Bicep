@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-20T09:35:26Z",
+                "last_commit": "2026-08-21T09:27:40Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3631
+                "stars": 3630
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-20T09:35:26Z",
+                "last_commit": "2026-08-21T09:27:40Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3631
+                "stars": 3630
               }
             }
           ],
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-20T09:35:26Z",
+                "last_commit": "2026-08-21T09:27:40Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3631
+                "stars": 3630
               }
             },
             {
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 447791597,
                 "language": "Bicep",
-                "last_commit": "2026-08-20T13:06:32Z",
+                "last_commit": "2026-08-20T21:16:58Z",
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
                 "stars": 735
@@ -111,7 +111,7 @@
                 "archived": false,
                 "id": 660211576,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T13:56:31Z",
+                "last_commit": "2026-08-20T22:31:28Z",
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
                 "stars": 578
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-19T15:24:47Z",
+                "last_commit": "2026-08-20T15:29:19Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 299675717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:42:52Z",
+                "last_commit": "2026-08-20T15:58:50Z",
                 "owner": "Azure",
                 "repo": "bicep-types-az",
                 "stars": 109
@@ -371,10 +371,10 @@
                 "archived": false,
                 "id": 125832556,
                 "language": "C#",
-                "last_commit": "2026-08-19T14:53:17Z",
+                "last_commit": "2026-08-20T14:56:58Z",
                 "owner": "microsoft",
                 "repo": "PSRule",
-                "stars": 471
+                "stars": 472
               }
             },
             {
@@ -404,7 +404,7 @@
                 "last_commit": "2024-05-18T22:30:19Z",
                 "owner": "brwilkinson",
                 "repo": "AzureDeploymentFramework",
-                "stars": 171
+                "stars": 172
               }
             },
             {
@@ -491,7 +491,7 @@
                 "archived": false,
                 "id": 1112425737,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T07:44:20Z",
+                "last_commit": "2026-08-21T09:29:49Z",
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
                 "stars": 50
@@ -524,7 +524,7 @@
                 "last_commit": "2026-08-17T20:04:31Z",
                 "owner": "christosgalano",
                 "repo": "bicep-docs",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -956,7 +956,7 @@
                 "archived": false,
                 "id": 894725791,
                 "language": "PowerShell",
-                "last_commit": "2026-08-13T08:16:07Z",
+                "last_commit": "2026-08-21T13:23:00Z",
                 "owner": "builtwithcaffeine",
                 "repo": "bwc-bicep-repository",
                 "stars": 1
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:01:33.436Z",
+    "last_updated": "2026-08-21T13:59:57.479Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
