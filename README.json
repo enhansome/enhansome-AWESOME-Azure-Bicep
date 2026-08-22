@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-21T09:27:40Z",
+                "last_commit": "2026-08-22T09:21:43Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3630
+                "stars": 3631
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-21T09:27:40Z",
+                "last_commit": "2026-08-22T09:21:43Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3630
+                "stars": 3631
               }
             }
           ],
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-21T09:27:40Z",
+                "last_commit": "2026-08-22T09:21:43Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3630
+                "stars": 3631
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T15:29:19Z",
+                "last_commit": "2026-08-22T13:22:16Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 125832556,
                 "language": "C#",
-                "last_commit": "2026-08-20T14:56:58Z",
+                "last_commit": "2026-08-22T13:13:30Z",
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 472
@@ -972,7 +972,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:59:57.479Z",
+    "last_updated": "2026-08-22T13:45:46.962Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
