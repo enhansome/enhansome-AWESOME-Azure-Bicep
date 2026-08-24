@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-24T13:09:56Z",
+                "last_commit": "2026-08-24T14:56:17Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 125832556,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:14:35Z",
+                "last_commit": "2026-08-24T15:04:42Z",
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 473
@@ -994,7 +994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:58.773Z",
+    "last_updated": "2026-08-24T15:07:02.039Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
