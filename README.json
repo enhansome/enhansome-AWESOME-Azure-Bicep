@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-24T09:59:03Z",
+                "last_commit": "2026-08-25T04:53:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-24T09:59:03Z",
+                "last_commit": "2026-08-25T04:53:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-24T09:59:03Z",
+                "last_commit": "2026-08-25T04:53:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-24T14:56:17Z",
+                "last_commit": "2026-08-24T15:26:46Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -521,7 +521,7 @@
                 "archived": false,
                 "id": 738944486,
                 "language": "Go",
-                "last_commit": "2026-08-17T20:04:31Z",
+                "last_commit": "2026-08-24T20:04:15Z",
                 "owner": "christosgalano",
                 "repo": "bicep-docs",
                 "stars": 46
@@ -956,7 +956,7 @@
                 "archived": false,
                 "id": 894725791,
                 "language": "PowerShell",
-                "last_commit": "2026-08-21T13:23:00Z",
+                "last_commit": "2026-08-24T18:00:41Z",
                 "owner": "builtwithcaffeine",
                 "repo": "bwc-bicep-repository",
                 "stars": 1
@@ -978,7 +978,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-24T09:59:03Z",
+                "last_commit": "2026-08-25T04:53:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -994,7 +994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:02.039Z",
+    "last_updated": "2026-08-25T06:16:14.444Z",
     "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
     "original_repository_id": 447450585,
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
