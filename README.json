@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T09:46:48Z",
+                "last_commit": "2026-08-27T06:02:45Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3633
+                "stars": 3634
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T09:46:48Z",
+                "last_commit": "2026-08-27T06:02:45Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3633
+                "stars": 3634
               }
             }
           ],
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T09:46:48Z",
+                "last_commit": "2026-08-27T06:02:45Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3633
+                "stars": 3634
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-24T10:18:20Z",
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
-                "stars": 578
+                "stars": 579
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 299675717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T21:47:15Z",
+                "last_commit": "2026-08-26T18:53:02Z",
                 "owner": "Azure",
                 "repo": "bicep-types-az",
                 "stars": 109
@@ -371,7 +371,7 @@
                 "archived": false,
                 "id": 125832556,
                 "language": "C#",
-                "last_commit": "2026-08-26T05:29:26Z",
+                "last_commit": "2026-08-26T15:02:26Z",
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 473
@@ -978,10 +978,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T09:46:48Z",
+                "last_commit": "2026-08-27T06:02:45Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3633
+                "stars": 3634
               }
             }
           ],
@@ -994,9 +994,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:05:26.795Z",
-    "original_repository": "ElYusubov/AWESOME-Azure-Bicep",
-    "original_repository_id": 447450585,
+    "last_updated": "2026-08-27T11:21:03.535Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 447450585,
+      "language": null,
+      "last_commit": "2026-08-07T17:34:15Z",
+      "owner": "ElYusubov",
+      "repo": "AWESOME-Azure-Bicep",
+      "stars": 442
+    },
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
     "enhanced_repository_description": null,
