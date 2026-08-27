@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T06:02:45Z",
+                "last_commit": "2026-08-27T21:48:41Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3634
+                "stars": 3635
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T06:02:45Z",
+                "last_commit": "2026-08-27T21:48:41Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3634
+                "stars": 3635
               }
             }
           ],
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T06:02:45Z",
+                "last_commit": "2026-08-27T21:48:41Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3634
+                "stars": 3635
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-26T05:49:30Z",
+                "last_commit": "2026-08-27T15:29:28Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -216,7 +216,7 @@
                 "archived": false,
                 "id": 642474913,
                 "language": "TypeScript",
-                "last_commit": "2026-08-11T14:40:45Z",
+                "last_commit": "2026-08-27T15:44:56Z",
                 "owner": "microsoftgraph",
                 "repo": "msgraph-bicep-types",
                 "stars": 79
@@ -491,7 +491,7 @@
                 "archived": false,
                 "id": 1112425737,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T07:44:34Z",
+                "last_commit": "2026-08-27T12:45:42Z",
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
                 "stars": 50
@@ -978,10 +978,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T06:02:45Z",
+                "last_commit": "2026-08-27T21:48:41Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3634
+                "stars": 3635
               }
             }
           ],
@@ -994,7 +994,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:03.535Z",
+    "last_updated": "2026-08-27T22:58:29.834Z",
     "original_repository_info": {
       "archived": false,
       "id": 447450585,
