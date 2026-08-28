@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T21:48:41Z",
+                "last_commit": "2026-08-28T21:34:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T21:48:41Z",
+                "last_commit": "2026-08-28T21:34:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             }
           ],
           "description": null,
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T21:48:41Z",
+                "last_commit": "2026-08-28T21:34:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 396743838,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T08:12:18Z",
+                "last_commit": "2026-08-28T11:44:04Z",
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Azure",
                 "repo": "ResourceModules",
                 "stars": 737
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -99,8 +104,9 @@
                 "last_commit": "2026-08-25T07:23:11Z",
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
-                "stars": 735
-              }
+                "stars": 736
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -126,11 +133,12 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T15:29:28Z",
+                "last_commit": "2026-08-28T12:49:04Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "Azure",
                 "repo": "AKS-Construction",
                 "stars": 377
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Azure",
                 "repo": "template-analyzer",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -171,11 +181,12 @@
                 "archived": false,
                 "id": 299675717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T18:53:02Z",
+                "last_commit": "2026-08-28T18:56:37Z",
                 "owner": "Azure",
                 "repo": "bicep-types-az",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "Azure",
                 "repo": "azure-docs-bicep-samples",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "Azure",
                 "repo": "azure-spring-apps-landing-zone-accelerator",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "microsoftgraph",
                 "repo": "msgraph-bicep-types",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "Azure",
                 "repo": "vscode-remote-try-bicep",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "Azure",
                 "repo": "benchpress",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             }
           ],
           "description": null,
@@ -278,7 +294,8 @@
                 "owner": "johnlokerse",
                 "repo": "azure-devops-bicep-local-deploy",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "kewalaka",
                 "repo": "az-bootstrap",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "Azure4DevOps",
                 "repo": "check-azure-bicep",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "Gijsreyn",
                 "repo": "bicep-ext-databricks",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "mimachniak",
                 "repo": "AzureResources-NameGenerator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "mimachniak",
                 "repo": "bicep-ext-PassWordGenerator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             }
           ],
           "description": null,
@@ -371,11 +393,12 @@
                 "archived": false,
                 "id": 125832556,
                 "language": "C#",
-                "last_commit": "2026-08-26T15:02:26Z",
+                "last_commit": "2026-08-28T14:53:30Z",
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "globalbao",
                 "repo": "azure-policy-as-code",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -405,7 +429,8 @@
                 "owner": "brwilkinson",
                 "repo": "AzureDeploymentFramework",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "error505",
                 "repo": "azure-cloud-ai-visualizer",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "PSBicep",
                 "repo": "PSBicep",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "johnlokerse",
                 "repo": "azure-bicep-cheat-sheet",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "riosengineer",
                 "repo": "Bicepify",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "jamesatighe",
                 "repo": "AVD-BICEP",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -495,7 +525,8 @@
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -510,7 +541,8 @@
                 "owner": "fberson",
                 "repo": "wvd",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -525,7 +557,8 @@
                 "owner": "christosgalano",
                 "repo": "bicep-docs",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -540,7 +573,8 @@
                 "owner": "PacktPublishing",
                 "repo": "Infrastructure-as-Code-with-Azure-Bicep",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -555,7 +589,8 @@
                 "owner": "fberson",
                 "repo": "Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -570,7 +605,8 @@
                 "owner": "ElYusubov",
                 "repo": "Learn-Bicep",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -585,7 +621,8 @@
                 "owner": "nnellans",
                 "repo": "bicep-guide",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -600,7 +637,8 @@
                 "owner": "lordlinus",
                 "repo": "databricks-all-in-one-bicep-template",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -615,7 +653,8 @@
                 "owner": "scautomation",
                 "repo": "Bicep-AzureMonitor-Sentinel",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -630,7 +669,8 @@
                 "owner": "brianveldman",
                 "repo": "azure-bicep",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "Ba4bes",
                 "repo": "Bicep-NamingConvention",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "gbaeke",
                 "repo": "aks-bicep",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "jaydestro",
                 "repo": "aksbicep",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "kevinevans1",
                 "repo": "learn-azure-bicep",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "erudinsky",
                 "repo": "Azure-Bicep-Workshop",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -720,7 +765,8 @@
                 "owner": "Gijsreyn",
                 "repo": "bicep-ext-databricks",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -735,7 +781,8 @@
                 "owner": "lukemurraynz",
                 "repo": "NimbusIQ",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -750,7 +797,8 @@
                 "owner": "PSBicep",
                 "repo": "BicepNet",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -765,7 +813,8 @@
                 "owner": "your-azure-coach",
                 "repo": "bicep-azdevops",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -780,7 +829,8 @@
                 "owner": "maikvandergaag",
                 "repo": "bicep",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -795,7 +845,8 @@
                 "owner": "johnlokerse",
                 "repo": "bicep-snippets",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -810,7 +861,8 @@
                 "owner": "Welasco",
                 "repo": "Bicep",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -825,7 +877,8 @@
                 "owner": "johnlokerse",
                 "repo": "azure-bicep-mcp-integration-setup",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -840,7 +893,8 @@
                 "owner": "maikvandergaag",
                 "repo": "bicep-ext-http",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -855,7 +909,8 @@
                 "owner": "matsest",
                 "repo": "bicep-deploy-whatif-without-write-demo",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -870,7 +925,8 @@
                 "owner": "Gijsreyn",
                 "repo": "bicep-local-docgen",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -885,7 +941,8 @@
                 "owner": "ThojoUno",
                 "repo": "aumAccelerator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -900,7 +957,8 @@
                 "owner": "ElYusubov",
                 "repo": "Governance-with-Bicep",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -915,7 +973,8 @@
                 "owner": "slavizh",
                 "repo": "azure-bootcamp-2025",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -930,7 +989,8 @@
                 "owner": "lukemurraynz",
                 "repo": "avm-res-app-agent",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1005,8 @@
                 "owner": "maikvandergaag",
                 "repo": "msft-bicep-local",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1021,8 @@
                 "owner": "builtwithcaffeine",
                 "repo": "bwc-bicep-repository",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             }
           ],
           "description": null,
@@ -978,11 +1040,12 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T21:48:41Z",
+                "last_commit": "2026-08-28T21:34:18Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635
-              }
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
             }
           ],
           "description": null,
@@ -994,7 +1057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:58:29.834Z",
+    "last_updated": "2026-08-28T23:03:50.072Z",
     "original_repository_info": {
       "archived": false,
       "id": 447450585,
