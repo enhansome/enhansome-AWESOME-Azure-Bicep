@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep 💪 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,892 | 🐛 105 | 📅 2026-08-21  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml) ⭐ 442 | 🐛 5 | 📅 2026-08-07 [![Copilot code review](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer) ⭐ 442 | 🐛 5 | 📅 2026-08-07
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,073 | 🐛 105 | 📅 2026-08-21  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml) ⭐ 442 | 🐛 5 | 📅 2026-08-07 [![Copilot code review](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer) ⭐ 442 | 🐛 5 | 📅 2026-08-07
 
 A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, and scripts.
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
@@ -45,8 +45,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-28
-* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-28
+* [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-29
+* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-29
 * [Add linter settings in the Bicep config file](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter?WT.mc_id=AZ-MVP-5004750)
 * [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices/?WT.mc_id=AZ-MVP-5004750)
 * [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5004750)
@@ -95,7 +95,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-28
+* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-29
 * [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 886 | 🐛 4 | 🌐 Bicep | 📅 2026-08-28
 * [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules) ⭐ 737 | 🐛 122 | 🌐 PowerShell | 📅 2025-08-28
 * [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules) ⭐ 736 | 🐛 254 | 🌐 Bicep | 📅 2026-08-25
@@ -373,7 +373,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-28
+* [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-29
 * [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 * [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
 * [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
