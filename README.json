@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep is a declarative language for describing and deploying Azure resources",
+                "homepage": null,
                 "id": 263503250,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:34:18Z",
+                "open_issues": 1077,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "arm-json",
+                  "arm-templates",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -28,12 +37,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep is a declarative language for describing and deploying Azure resources",
+                "homepage": null,
                 "id": 263503250,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:34:18Z",
+                "open_issues": 1077,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "arm-json",
+                  "arm-templates",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             }
@@ -51,12 +69,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep is a declarative language for describing and deploying Azure resources",
+                "homepage": null,
                 "id": 263503250,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:34:18Z",
+                "open_issues": 1077,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "arm-json",
+                  "arm-templates",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -67,12 +94,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs",
+                "homepage": null,
                 "id": 396743838,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:44:04Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
-                "stars": 886
+                "stars": 886,
+                "topics": [
+                  "alz",
+                  "azure",
+                  "azure-landing-zones",
+                  "azure-policy",
+                  "bicep",
+                  "enterprise-scale",
+                  "eslz",
+                  "landing-zone",
+                  "landing-zones"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -83,12 +125,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.",
+                "homepage": "https://aka.ms/carml",
                 "id": 397411013,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-08-28T14:43:13Z",
+                "open_issues": 122,
                 "owner": "Azure",
                 "repo": "ResourceModules",
-                "stars": 737
+                "stars": 737,
+                "topics": [
+                  "arm",
+                  "azure",
+                  "bicep",
+                  "bicep-templates",
+                  "building-block",
+                  "deployment-automation",
+                  "iac",
+                  "microsoft",
+                  "modules",
+                  "platform",
+                  "publishing",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -99,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep registry modules",
+                "homepage": null,
                 "id": 447791597,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-25T07:23:11Z",
+                "open_issues": 254,
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
-                "stars": 736
+                "stars": 736,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -115,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Verified Modules (AVM) is an initiative to consolidate and set the standards for what a good Infrastructure-as-Code module looks like. Modules will then align to these standards, across languages (Bicep, Terraform etc.) and will then be classified as AVMs and available from their respective language specific registries.",
+                "homepage": "https://aka.ms/AVM",
                 "id": 660211576,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:18:20Z",
+                "open_issues": 289,
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -131,12 +201,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.",
+                "homepage": "https://azure.github.io/PSRule.Rules.Azure/",
                 "id": 184154668,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:49:04Z",
+                "open_issues": 134,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "azure",
+                  "azure-templates",
+                  "cicd",
+                  "devops",
+                  "devops-tools",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "powershell",
+                  "powershell-module",
+                  "ps-rule",
+                  "rule",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -147,12 +235,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Accelerate your onboarding to AKS with; Helper Web App, bicep templating and CI/CD samples. Flexible & secure AKS baseline implementations in a Microsoft + community maintained reference implementation.",
+                "homepage": "https://azure.github.io/AKS-Construction/",
                 "id": 379248577,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T01:38:47Z",
+                "open_issues": 27,
                 "owner": "Azure",
                 "repo": "AKS-Construction",
-                "stars": 377
+                "stars": 377,
+                "topics": [
+                  "aks",
+                  "aks-kubernetes-cluster",
+                  "azure",
+                  "azure-kubernetes-service",
+                  "bicep",
+                  "cicd",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -163,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template scanner for security misconfiguration and best practices",
+                "homepage": null,
                 "id": 308101115,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-08T23:51:51Z",
+                "open_issues": 73,
                 "owner": "Azure",
                 "repo": "template-analyzer",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -179,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep type definitions for ARM resources",
+                "homepage": null,
                 "id": 299675717,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T18:56:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:23:33Z",
+                "open_issues": 676,
                 "owner": "Azure",
                 "repo": "bicep-types-az",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -195,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 392102357,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2023-12-05T16:48:25Z",
+                "open_issues": 6,
                 "owner": "Azure",
                 "repo": "azure-docs-bicep-samples",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -211,12 +327,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Azure Spring Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure Spring Apps at scale.",
+                "homepage": null,
                 "id": 314090018,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2024-02-15T14:21:57Z",
+                "open_issues": 8,
                 "owner": "Azure",
                 "repo": "azure-spring-apps-landing-zone-accelerator",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "application-gateway",
+                  "arm-templates",
+                  "azure",
+                  "azure-cli",
+                  "azure-spring-apps",
+                  "azure-spring-cloud",
+                  "bicep",
+                  "cloud",
+                  "database",
+                  "firewall",
+                  "lza",
+                  "on-premises",
+                  "spring-apps",
+                  "spring-boot",
+                  "spring-cloud",
+                  "tanzu",
+                  "terraform",
+                  "virtual-network",
+                  "vmware",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -227,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo contains Microsoft Graph resource types to integrate with bicep templates.",
+                "homepage": null,
                 "id": 642474913,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:44:56Z",
+                "open_issues": 48,
                 "owner": "microsoftgraph",
                 "repo": "msgraph-bicep-types",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -243,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 298400853,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2023-02-09T17:01:16Z",
+                "open_issues": 5,
                 "owner": "Azure",
                 "repo": "vscode-remote-try-bicep",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -259,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Azure Testing Framework/Library project",
+                "homepage": null,
                 "id": 484593116,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-01-10T17:24:36Z",
+                "open_issues": 27,
                 "owner": "Azure",
                 "repo": "benchpress",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             }
@@ -288,12 +445,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Azure Bicep local-deploy extension for Azure DevOps ",
+                "homepage": null,
                 "id": 1034024547,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-06-21T13:32:11Z",
+                "open_issues": 8,
                 "owner": "johnlokerse",
                 "repo": "azure-devops-bicep-local-deploy",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "azure",
+                  "azure-devops",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -304,12 +470,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invoke-AzBootstrap (iazb) helps to set up Azure and GitHub environments for IaC projects.",
+                "homepage": "https://www.powershellgallery.com/packages/az-bootstrap",
                 "id": 974442944,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-06-21T02:57:56Z",
+                "open_issues": 18,
                 "owner": "kewalaka",
                 "repo": "az-bootstrap",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "bicep",
+                  "github",
+                  "iac",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -320,12 +496,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-commit hooks for Azure Bicep validation, with built-in support for GitHub Workflows, Azure Pipelines, and more! Enabling shift left approach for Azure Bicep infrastructure as code.",
+                "homepage": null,
                 "id": 512793578,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-04-30T15:33:13Z",
+                "open_issues": 6,
                 "owner": "Azure4DevOps",
                 "repo": "check-azure-bicep",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "azure",
+                  "azure-devops",
+                  "bicep",
+                  "cli",
+                  "git",
+                  "github-actions",
+                  "pre-commit",
+                  "shift-left"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -336,12 +526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample repository containing Azure Databricks Bicep extension",
+                "homepage": null,
                 "id": 1032236922,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-12-15T20:36:12Z",
+                "open_issues": 10,
                 "owner": "Gijsreyn",
                 "repo": "bicep-ext-databricks",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -352,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure Resource Name Generator PowerShell Module provides an automated and standardized way to generate compliant, consistent, and meaningful names for Azure resources base on your own defined schema for resources.  It integrates with Azure Naming Tools, buy loading resources and requirements.",
+                "homepage": "https://www.powershellgallery.com/packages/AzureResourcesNameGenerator",
                 "id": 1048022989,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-03-16T10:30:23Z",
+                "open_issues": 0,
                 "owner": "mimachniak",
                 "repo": "AzureResources-NameGenerator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -368,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep local Password generator ",
+                "homepage": null,
                 "id": 1054149154,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-02T19:44:41Z",
+                "open_issues": 0,
                 "owner": "mimachniak",
                 "repo": "bicep-ext-PassWordGenerator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             }
@@ -391,12 +596,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate infrastructure as code (IaC) and objects using PowerShell rules.",
+                "homepage": "https://microsoft.github.io/PSRule/v2/",
                 "id": 125832556,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:53:30Z",
+                "open_issues": 84,
                 "owner": "microsoft",
                 "repo": "PSRule",
-                "stars": 473
+                "stars": 473,
+                "topics": [
+                  "allof",
+                  "anyof",
+                  "concept",
+                  "devops",
+                  "devops-tools",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "powershell",
+                  "powershell-module",
+                  "ps-rule",
+                  "psrule",
+                  "rule",
+                  "rule-engine",
+                  "testing-tools",
+                  "typeof"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -407,12 +633,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep and Terraform code examples for policy-as-code workflows. Azure governance guardrails and automation - by @JesseLoudon",
+                "homepage": "https://globalbao.github.io/azure-policy-as-code",
                 "id": 344983232,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2024-04-20T04:59:58Z",
+                "open_issues": 4,
                 "owner": "globalbao",
                 "repo": "azure-policy-as-code",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "armtemplates",
+                  "azure",
+                  "azure-policy",
+                  "azuredevops",
+                  "azurepolicy",
+                  "azurerm",
+                  "bicep",
+                  "cicd",
+                  "custom-policies",
+                  "devops",
+                  "policy-as-code",
+                  "terraform",
+                  "terraform-azurerm"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -423,12 +668,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARM Bicep & DSC Project for Azure Infrastructure and App Environment Deployments.",
+                "homepage": "https://brwilkinson.github.io/AzureDeploymentFramework/",
                 "id": 304788045,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2024-05-18T22:30:19Z",
+                "open_issues": 0,
                 "owner": "brwilkinson",
                 "repo": "AzureDeploymentFramework",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "arm-templates",
+                  "azure",
+                  "bicep",
+                  "desiredstateconfiguration",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -439,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1080051152,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-05T08:38:21Z",
+                "open_issues": 1,
                 "owner": "error505",
                 "repo": "azure-cloud-ai-visualizer",
-                "stars": 168
+                "stars": 168,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -455,12 +716,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for the Bicep PowerShell Module.",
+                "homepage": null,
                 "id": 328992376,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-19T14:59:05Z",
+                "open_issues": 16,
                 "owner": "PSBicep",
                 "repo": "PSBicep",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "arm",
+                  "arm-templates",
+                  "azure",
+                  "bicep",
+                  "bicep-azure",
+                  "bicep-cli",
+                  "bicep-lang",
+                  "bicep-powershell",
+                  "powershell",
+                  "powershell-module"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -471,12 +748,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quick-reference guide on Azure Bicep 💪🏻",
+                "homepage": null,
                 "id": 705228806,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-04-13T14:51:53Z",
+                "open_issues": 0,
                 "owner": "johnlokerse",
                 "repo": "azure-bicep-cheat-sheet",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "azure",
+                  "azure-resource-manager",
+                  "bicep",
+                  "cheat-sheet",
+                  "cheat-sheets",
+                  "cheatsheet",
+                  "community",
+                  "infrastructure-as-code",
+                  "microsoft-azure"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -487,12 +779,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplify getting started with Bicep through easy to digest examples🦾",
+                "homepage": null,
                 "id": 693753445,
                 "language": "Bicep",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-21T11:28:08Z",
+                "open_issues": 0,
                 "owner": "riosengineer",
                 "repo": "Bicepify",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "azure",
+                  "azure-devops",
+                  "azure-resource-manager",
+                  "azure-resource-templates",
+                  "bicep",
+                  "bicep-azure",
+                  "bicep-cli",
+                  "bicep-lang",
+                  "bicep-language",
+                  "bicep-modules",
+                  "bicep-templates",
+                  "bicepify",
+                  "community",
+                  "infrastructure-as-code",
+                  "learn-azure-bicep",
+                  "learn-bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -503,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full Azure Virtual Desktop Deployment authored in BICEP",
+                "homepage": null,
                 "id": 383795143,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2024-05-22T21:06:09Z",
+                "open_issues": 0,
                 "owner": "jamesatighe",
                 "repo": "AVD-BICEP",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -519,12 +838,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter template for APEX. Contains custom Copilot agents, Azure Pricing MCP server, and an orchestrated multi-step workflow. Auto-syncs from the main repository.",
+                "homepage": "https://apexops.pro",
                 "id": 1112425737,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:45:42Z",
+                "open_issues": 0,
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "agentic-ai",
+                  "azure",
+                  "bicep",
+                  "copilot",
+                  "github-copilot",
+                  "iac",
+                  "infrastructure-as-code",
+                  "mcp",
+                  "starter-template",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -535,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Virtual Desktop related ARM Templates, Bicep Files and PowerShell scripts.",
+                "homepage": null,
                 "id": 261395228,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2022-11-17T07:23:48Z",
+                "open_issues": 3,
                 "owner": "fberson",
                 "repo": "wvd",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -551,12 +891,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bicep-docs is a command-line tool that generates documentation for Bicep templates.",
+                "homepage": null,
                 "id": 738944486,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:04:15Z",
+                "open_issues": 2,
                 "owner": "christosgalano",
                 "repo": "bicep-docs",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "bicep",
+                  "cli",
+                  "documentation-generator",
+                  "go",
+                  "infrastructure-as-code"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -567,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrastructure as Code with Azure Bicep, published by Packt.",
+                "homepage": null,
                 "id": 388327541,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2023-01-30T08:49:54Z",
+                "open_issues": 2,
                 "owner": "PacktPublishing",
                 "repo": "Infrastructure-as-Code-with-Azure-Bicep",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -583,12 +939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 376035251,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-08-29T08:01:27Z",
+                "open_issues": 0,
                 "owner": "fberson",
                 "repo": "Getting-started-with-Bicep-Infrastructure-as-code-on-Azure",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -599,12 +960,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo provides bite-sized samples, blog posts, demos, and helpful tips on Azure Bicep implementation techniques and templates. Please, reach back if you have any questions.",
+                "homepage": "https://thecloudmarathoner.com",
                 "id": 403166628,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2025-11-13T02:21:02Z",
+                "open_issues": 1,
                 "owner": "ElYusubov",
                 "repo": "Learn-Bicep",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "azure",
+                  "azure-bicep",
+                  "azure-bicep-samples",
+                  "azure-cli",
+                  "ci-cd",
+                  "ci-cd-pipeline",
+                  "code-as-infrastructure",
+                  "infrastructure-as-code"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -615,12 +990,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep Guide",
+                "homepage": "https://www.nathannellans.com",
                 "id": 476748979,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-30T20:52:05Z",
+                "open_issues": 1,
                 "owner": "nnellans",
                 "repo": "bicep-guide",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "azure",
+                  "bicep",
+                  "iac",
+                  "infrastructure-as-code"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -631,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure Databricks cluster with Data exfiltration Protection and Privatelink for Storage, KeyVault and EventHub using Bicep",
+                "homepage": null,
                 "id": 387993996,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2021-08-13T04:58:26Z",
+                "open_issues": 0,
                 "owner": "lordlinus",
                 "repo": "databricks-all-in-one-bicep-template",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -647,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep examples repo for log analytics, azure monitor and sentinel",
+                "homepage": null,
                 "id": 359511503,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2023-03-16T19:32:05Z",
+                "open_issues": 0,
                 "owner": "scautomation",
                 "repo": "Bicep-AzureMonitor-Sentinel",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -663,12 +1058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrastructure as Code (IaC) repository for deploying and managing Azure resources using Bicep. It also includes examples of working with other providers such as Microsoft Graph (msgraph) to extend automation beyond Azure resources.",
+                "homepage": null,
                 "id": 701502145,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2026-07-06T14:52:42Z",
+                "open_issues": 0,
                 "owner": "brianveldman",
                 "repo": "azure-bicep",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -679,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 415637633,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2022-01-16T18:31:47Z",
+                "open_issues": 0,
                 "owner": "Ba4bes",
                 "repo": "Bicep-NamingConvention",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -695,12 +1100,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AKS Deployment with Bicep",
+                "homepage": null,
                 "id": 362187491,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2021-06-26T11:59:18Z",
+                "open_issues": 0,
                 "owner": "gbaeke",
                 "repo": "aks-bicep",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "aks",
+                  "arm",
+                  "azure",
+                  "bicep",
+                  "iac",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -711,12 +1128,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aksbicep - a demo to create an AKS cluster with GitHub Actions and Bicep",
+                "homepage": null,
                 "id": 394367500,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2021-11-29T15:43:46Z",
+                "open_issues": 0,
                 "owner": "jaydestro",
                 "repo": "aksbicep",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -727,12 +1149,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of Azure Bicep learning and reference's resources by @kevinevans1",
+                "homepage": null,
                 "id": 531324387,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-03T00:21:51Z",
+                "open_issues": 0,
                 "owner": "kevinevans1",
                 "repo": "learn-azure-bicep",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "arm",
+                  "azure",
+                  "azure-devops",
+                  "bicep",
+                  "bicep-azure",
+                  "biceplang",
+                  "infrastructure-as-code",
+                  "microsoft"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -743,12 +1179,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💪 Azure Bicep Workshop: Learn to deploy a secure full stack app to Azure using Bicep. Set up management groups, RBAC, and policy as code. Deploy a 3-tier app (Flask API, PostgreSQL, Vue.js client) with secure networking, WAF, DevOps best practices, and automation. Suggestions welcome!",
+                "homepage": "https://erudinsky.com",
                 "id": 479857395,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2025-06-07T11:48:55Z",
+                "open_issues": 0,
                 "owner": "erudinsky",
                 "repo": "Azure-Bicep-Workshop",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "azure",
+                  "bicep",
+                  "infrastructure-as-code",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -759,12 +1205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample repository containing Azure Databricks Bicep extension",
+                "homepage": null,
                 "id": 1032236922,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-12-15T20:36:12Z",
+                "open_issues": 10,
                 "owner": "Gijsreyn",
                 "repo": "bicep-ext-databricks",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -775,12 +1226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure infrastructure governance and optimization insights as part of the DevDays Hackahon 2026.",
+                "homepage": null,
                 "id": 1182032345,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-23T21:49:28Z",
+                "open_issues": 3,
                 "owner": "lukemurraynz",
                 "repo": "NimbusIQ",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -791,12 +1247,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A thin wrapper around Bicep that will load all bicep assemblies in a separate context to avoid conflicts with other modules.",
+                "homepage": null,
                 "id": 380843075,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-10-07T17:14:00Z",
+                "open_issues": 0,
                 "owner": "PSBicep",
                 "repo": "BicepNet",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "azure",
+                  "bicep",
+                  "bicep-cli",
+                  "bicep-powershell",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -807,12 +1274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automating your Azure infrastructure with Bicep and Azure DevOps!",
+                "homepage": null,
                 "id": 408928898,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-03-30T08:13:02Z",
+                "open_issues": 0,
                 "owner": "your-azure-coach",
                 "repo": "bicep-azdevops",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -823,12 +1295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project for bicep files",
+                "homepage": null,
                 "id": 349211623,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2025-06-26T10:14:41Z",
+                "open_issues": 0,
                 "owner": "maikvandergaag",
                 "repo": "bicep",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -839,12 +1316,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Bicep snippets",
+                "homepage": null,
                 "id": 535994437,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2024-10-14T11:22:37Z",
+                "open_issues": 0,
                 "owner": "johnlokerse",
                 "repo": "bicep-snippets",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "azure",
+                  "azure-bicep",
+                  "azure-bicep-samples",
+                  "bicep",
+                  "snippets"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -855,12 +1343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 370852238,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2021-09-14T21:26:13Z",
+                "open_issues": 0,
                 "owner": "Welasco",
                 "repo": "Bicep",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -871,12 +1364,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💪 Integrate the Azure Bicep MCP server with Claude, Codex, LM Studio, and more.",
+                "homepage": null,
                 "id": 1115733642,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2026-02-15T13:23:45Z",
+                "open_issues": 0,
                 "owner": "johnlokerse",
                 "repo": "azure-bicep-mcp-integration-setup",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ai",
+                  "azure",
+                  "bicep",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "codex-cli",
+                  "infrastructure-as-code",
+                  "lmstudio",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -887,12 +1396,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep Http Extension",
+                "homepage": null,
                 "id": 1045661309,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T10:47:17Z",
+                "open_issues": 0,
                 "owner": "maikvandergaag",
                 "repo": "bicep-ext-http",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bicep",
+                  "http"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -903,12 +1420,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo of running Bicep What-If deploy without write permissions",
+                "homepage": null,
                 "id": 994230684,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-07-14T13:06:35Z",
+                "open_issues": 0,
                 "owner": "matsest",
                 "repo": "bicep-deploy-whatif-without-write-demo",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "azure",
+                  "azure-bicep",
+                  "bicep",
+                  "biceplang",
+                  "demo",
+                  "what-if"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -919,12 +1448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation tool for Bicep Local Deploy models with annotation attributes",
+                "homepage": null,
                 "id": 1055898777,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-01T07:19:37Z",
+                "open_issues": 6,
                 "owner": "Gijsreyn",
                 "repo": "bicep-local-docgen",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -935,12 +1469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Update Manager accelerator deployment written in Azure Bicep.",
+                "homepage": null,
                 "id": 723949889,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2024-05-01T15:57:13Z",
+                "open_issues": 0,
                 "owner": "ThojoUno",
                 "repo": "aumAccelerator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -951,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to Policy-as-Code starter repo for Azure Governance using Bicep and GitHub Actions with OIDC. ",
+                "homepage": null,
                 "id": 1154099302,
                 "language": "Bicep",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T19:13:33Z",
+                "open_issues": 1,
                 "owner": "ElYusubov",
                 "repo": "Governance-with-Bicep",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -967,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 971333257,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2025-05-07T12:08:32Z",
+                "open_issues": 0,
                 "owner": "slavizh",
                 "repo": "azure-bootcamp-2025",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -983,12 +1532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Azure SRE Agent AVM Bicep Module",
+                "homepage": null,
                 "id": 1230310727,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2026-05-12T22:39:21Z",
+                "open_issues": 0,
                 "owner": "lukemurraynz",
                 "repo": "avm-res-app-agent",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -999,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for testing bicep capabilities",
+                "homepage": null,
                 "id": 966030547,
                 "language": "Bicep",
+                "license": null,
                 "last_commit": "2026-05-07T13:27:10Z",
+                "open_issues": 0,
                 "owner": "maikvandergaag",
                 "repo": "msft-bicep-local",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -1015,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Bicep Repository",
+                "homepage": null,
                 "id": 894725791,
                 "language": "PowerShell",
+                "license": null,
                 "last_commit": "2026-08-24T18:00:41Z",
+                "open_issues": 0,
                 "owner": "builtwithcaffeine",
                 "repo": "bwc-bicep-repository",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             }
@@ -1038,12 +1602,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep is a declarative language for describing and deploying Azure resources",
+                "homepage": null,
                 "id": 263503250,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:34:18Z",
+                "open_issues": 1077,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "arm-json",
+                  "arm-templates",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             }
@@ -1057,15 +1630,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:03:50.072Z",
+    "last_updated": "2026-08-29T04:47:26.140Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz",
+      "homepage": "https://aka.ms/bicep",
       "id": 447450585,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-07T17:34:15Z",
+      "open_issues": 5,
       "owner": "ElYusubov",
       "repo": "AWESOME-Azure-Bicep",
-      "stars": 442
+      "stars": 442,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "azure",
+        "azure-bicep",
+        "azure-bicep-github",
+        "azure-resource-manager",
+        "cloud-management",
+        "code-as-infrastructure",
+        "command-line",
+        "community",
+        "devops",
+        "infrastructure-as-code",
+        "learn-azure-bicep"
+      ]
     },
     "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
