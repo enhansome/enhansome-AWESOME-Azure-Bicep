@@ -17,11 +17,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:18:52Z",
+                "last_commit": "2026-09-18T16:23:07Z",
                 "open_issues": 1060,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -42,11 +42,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:18:52Z",
+                "last_commit": "2026-09-18T16:23:07Z",
                 "open_issues": 1060,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -74,11 +74,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:18:52Z",
+                "last_commit": "2026-09-18T16:23:07Z",
                 "open_issues": 1060,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -103,7 +103,7 @@
                 "open_issues": 8,
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "alz",
                   "azure",
@@ -130,8 +130,8 @@
                 "id": 447791597,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-17T16:00:45Z",
-                "open_issues": 263,
+                "last_commit": "2026-09-18T14:41:02Z",
+                "open_issues": 264,
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
                 "stars": 737,
@@ -185,11 +185,11 @@
                 "id": 660211576,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-17T16:28:36Z",
-                "open_issues": 309,
+                "last_commit": "2026-09-18T16:46:48Z",
+                "open_issues": 312,
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
-                "stars": 581,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
@@ -206,8 +206,8 @@
                 "id": 184154668,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:23:08Z",
-                "open_issues": 143,
+                "last_commit": "2026-09-18T15:23:06Z",
+                "open_issues": 144,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 448,
@@ -601,8 +601,8 @@
                 "id": 125832556,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-17T14:56:39Z",
-                "open_issues": 88,
+                "last_commit": "2026-09-18T14:55:56Z",
+                "open_issues": 89,
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 474,
@@ -865,6 +865,33 @@
             },
             {
               "node_type": "item",
+              "title": "christosgalano/bicep-docs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "bicep-docs is a command-line tool that generates documentation for Bicep templates.",
+                "homepage": null,
+                "id": 738944486,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-14T20:04:41Z",
+                "open_issues": 3,
+                "owner": "christosgalano",
+                "repo": "bicep-docs",
+                "stars": 47,
+                "topics": [
+                  "bicep",
+                  "cli",
+                  "documentation-generator",
+                  "go",
+                  "infrastructure-as-code"
+                ]
+              },
+              "first_seen": "2026-08-28T23:03:50.072Z"
+            },
+            {
+              "node_type": "item",
               "title": "fberson/wvd",
               "description": null,
               "children": [],
@@ -881,33 +908,6 @@
                 "repo": "wvd",
                 "stars": 47,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:03:50.072Z"
-            },
-            {
-              "node_type": "item",
-              "title": "christosgalano/bicep-docs",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "bicep-docs is a command-line tool that generates documentation for Bicep templates.",
-                "homepage": null,
-                "id": 738944486,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-14T20:04:41Z",
-                "open_issues": 3,
-                "owner": "christosgalano",
-                "repo": "bicep-docs",
-                "stars": 46,
-                "topics": [
-                  "bicep",
-                  "cli",
-                  "documentation-generator",
-                  "go",
-                  "infrastructure-as-code"
-                ]
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
             },
@@ -1607,11 +1607,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:18:52Z",
+                "last_commit": "2026-09-18T16:23:07Z",
                 "open_issues": 1060,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3643,
+                "stars": 3645,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:38:31.979Z",
+    "last_updated": "2026-09-18T17:05:58.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz",
@@ -1638,8 +1638,8 @@
       "id": 447450585,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-07T17:34:15Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-17T20:25:56Z",
+      "open_issues": 4,
       "owner": "ElYusubov",
       "repo": "AWESOME-Azure-Bicep",
       "stars": 443,
@@ -1659,7 +1659,7 @@
         "learn-azure-bicep"
       ]
     },
-    "original_repository_sha": "2b855fe092ca9cc8b762b9a8ad6224a21f057d8b",
+    "original_repository_sha": "1a3a18a04be871df9b990ccb87ed85a23c975549",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
     "enhanced_repository_description": null,
     "title": "AWESOME Azure Bicep 💪 with stars"
