@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep 💪 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,884 | 🐛 105 | 📅 2026-09-02  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml) [![Copilot code review](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,531 | 🐛 105 | 📅 2026-09-02  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml) [![Copilot code review](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)
 
 A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, and scripts.
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
@@ -45,8 +45,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/) ⭐ 3,659 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-22
-* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,659 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-22
+* [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/) ⭐ 3,658 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-23
+* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,658 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-23
 * [Add linter settings in the Bicep config file](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter?WT.mc_id=AZ-MVP-5004750)
 * [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices/?WT.mc_id=AZ-MVP-5004750)
 * [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5004750)
@@ -95,11 +95,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,659 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-22
+* [Project Bicep - an ARM DSL](https://github.com/Azure/bicep) ⭐ 3,658 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-23
 * [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 891 | 🐛 9 | 🌐 Bicep | 📅 2026-10-09
-* [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules) ⭐ 742 | 🐛 298 | 🌐 Bicep | 📅 2026-10-22
+* [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules) ⭐ 742 | 🐛 300 | 🌐 Bicep | 📅 2026-10-23
 * [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules) ⭐ 738 | 🐛 122 | 🌐 PowerShell | 📅 2026-10-20
-* [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules) ⭐ 586 | 🐛 272 | 🌐 PowerShell | 📅 2026-10-19
+* [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules) ⭐ 586 | 🐛 271 | 🌐 PowerShell | 📅 2026-10-22
 * [PSRule for Azure - A suite of rules to test Azure resources and Infrastructure as Code (IaC) using PSRule, including Bicep syntax](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 449 | 🐛 146 | 🌐 PowerShell | 📅 2026-10-21
 * [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction) ⭐ 378 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-20
 * [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer) ⭐ 145 | 🐛 75 | 🌐 C# | 📅 2026-01-08
@@ -211,7 +211,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [Azure Service Groups for Flexible Resource Organization](https://cloudtips.nl/azure-service-groups-for-flexible-resource-organization-ade1cad9bffe)
 * [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
 * [Behind the scenes of Bicep.LocalDeploy: A Developer's Guide](https://www.idontlikeai.dev/behind-the-scenes-of-bicep-localdeploy-a-developers-guide/)
-* [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 * [Bicep for Graph resources](https://msftplayground.com/2025/01/bicep-for-graph-resources)
 * [Bicep pattern parameter](https://msftplayground.com/2025/09/bicep-pattern-parameter)
 * [Bringing 'statefulness' to Azure Bicep in Pull Requests](https://blog.insight-services-apac.dev/2025/12/04/azure-bicep-snapshot-as-tf-state-like)
@@ -245,6 +244,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
 * [Deploying Azure Bicep using GitHub Actions + Linting and validating](https://cloudtips.nl/deploying-azure-bicep-via-github-actions-3cc2d6025948/)
 * [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
+* [Distributing Bicep Modules with Token-Based Access Using ACR](https://pixelrobots.co.uk/2026/07/distributing-bicep-modules-with-token-based-access-using-acr/)
 * [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
 * [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
 * [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
@@ -312,7 +312,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 * [Azure DevOps Bicep Local Deploy extension](https://github.com/johnlokerse/azure-devops-bicep-local-deploy) ⭐ 38 | 🐛 8 | 🌐 C# | 📅 2026-09-23
-* [Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects](https://github.com/kewalaka/az-bootstrap) ⭐ 34 | 🐛 18 | 🌐 PowerShell | 📅 2025-06-21
+* [Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects](https://github.com/kewalaka/az-bootstrap) ⭐ 33 | 🐛 18 | 🌐 PowerShell | 📅 2025-06-21
 * [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep) ⭐ 28 | 🐛 11 | 🌐 Bicep | 📅 2026-10-20
 * [Azure Databricks Bicep Local Deploy extension](https://github.com/Gijsreyn/bicep-ext-databricks) ⭐ 13 | 🐛 10 | 🌐 C# | 📅 2025-12-15
 * [Azure Resource Name Generator PowerShell Module - Bicep files generation](https://github.com/mimachniak/AzureResources-NameGenerator) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2026-03-16
@@ -321,6 +321,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [AzAdvertizer](https://www.azadvertizer.net/)
 * [AzureNamer - web tool to generate CAF compliant Azure resource names and export Bicep](https://azurenamingconventions.com/)
 * [Bicep Playground](https://aka.ms/bicepdemo)
+* [Bicep Testing Framework](https://anthony-c-martin.github.io/bicep-testing/#csharp)
 * [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
 * [A module to run Bicep using PowerShell - Bicep 3.0.0](https://www.powershellgallery.com/packages/Bicep/3.0.0)
 
@@ -328,7 +329,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.](https://github.com/microsoft/PSRule) ⭐ 474 | 🐛 92 | 🌐 C# | 📅 2026-10-22
+* [PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.](https://github.com/microsoft/PSRule) ⭐ 474 | 🐛 94 | 🌐 C# | 📅 2026-10-23
 * [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code) ⭐ 186 | 🐛 4 | 🌐 HCL | 📅 2024-04-20
 * [Azure Deployment Framework](https://github.com/brwilkinson/AzureDeploymentFramework) ⭐ 170 | 🐛 0 | 🌐 Bicep | 📅 2024-05-18
 * [azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer) ⭐ 169 | 🐛 1 | 🌐 TypeScript | 📅 2026-01-05
@@ -336,7 +337,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [johnlokerse/azure-bicep-cheat-sheet](https://github.com/johnlokerse/azure-bicep-cheat-sheet) ⭐ 147 | 🐛 0 | 📅 2025-04-13
 * [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify) ⭐ 137 | 🐛 0 | 🌐 Bicep | 📅 2026-01-21
 * [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP) ⭐ 62 | 🐛 0 | 🌐 Bicep | 📅 2024-05-22
-* [Azure Agentic InfraOps Accelerator](https://github.com/jonathan-vella/azure-agentic-infraops-accelerator) ⭐ 50 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-21
+* [Azure Agentic InfraOps Accelerator](https://github.com/jonathan-vella/azure-agentic-infraops-accelerator) ⭐ 50 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-23
 * [christosgalano/bicep-docs](https://github.com/christosgalano/bicep-docs) ⭐ 47 | 🐛 3 | 🌐 Go | 📅 2026-10-19
 * [fberson/wvd](https://github.com/fberson/wvd) ⭐ 47 | 🐛 3 | 🌐 PowerShell | 📅 2022-11-17
 * [Packt Publishing - IaC with Azure Bicep](https://github.com/PacktPublishing/Infrastructure-as-Code-with-Azure-Bicep) ⭐ 46 | 🐛 2 | 🌐 Bicep | 📅 2023-01-30
@@ -349,6 +350,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention) ⭐ 23 | 🐛 0 | 🌐 Bicep | 📅 2022-01-16
 * [gbaeke/aks-bicep](https://github.com/gbaeke/aks-bicep) ⭐ 22 | 🐛 0 | 🌐 Bicep | 📅 2021-06-26
 * [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep) ⭐ 21 | 🐛 0 | 🌐 Bicep | 📅 2021-11-29
+* [Cloudflare Bicep Extension (Experimental)](https://github.com/riosengineer/cloudflare-bicep-deploy) ⭐ 20 | 🐛 7 | 🌐 C# | 📅 2026-08-05
 * [kevinevans1/learn-azure-bicep](https://github.com/kevinevans1/learn-azure-bicep) ⭐ 19 | 🐛 0 | 📅 2023-02-03
 * [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop) ⭐ 18 | 🐛 0 | 🌐 Bicep | 📅 2025-06-07
 * [Bicep Databricks extension](https://github.com/Gijsreyn/bicep-ext-databricks) ⭐ 13 | 🐛 10 | 🌐 C# | 📅 2025-12-15
@@ -362,12 +364,14 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 * [Bicep HTTP Extension](https://github.com/maikvandergaag/bicep-ext-http) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-09-08
 * [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo) ⭐ 4 | 🐛 0 | 🌐 Bicep | 📅 2026-07-14
 * [Bicep Local Deploy doc generator](https://github.com/Gijsreyn/bicep-local-docgen) ⭐ 4 | 🐛 6 | 🌐 C# | 📅 2026-01-01
+* [AVM Updater](https://github.com/gettothe-cloud/avm-updater) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-22
 * [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator) ⭐ 3 | 🐛 0 | 🌐 Bicep | 📅 2024-05-01
 * [Governance-with-Bicep](https://github.com/ElYusubov/Governance-with-Bicep) ⭐ 2 | 🐛 0 | 🌐 Bicep | 📅 2026-09-22
 * [Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025](https://github.com/slavizh/azure-bootcamp-2025) ⭐ 2 | 🐛 0 | 🌐 Bicep | 📅 2025-05-07
 * [AVM Resource Module: App Agent](https://github.com/lukemurraynz/avm-res-app-agent) ⭐ 1 | 🐛 0 | 🌐 Bicep | 📅 2026-05-12
 * [Bicep Local Samples](https://github.com/maikvandergaag/msft-bicep-local) ⭐ 1 | 🐛 0 | 🌐 Bicep | 📅 2026-05-07
 * [BuiltWithCaffeine - Bicep Snippets](https://github.com/builtwithcaffeine/bwc-bicep-repository) ⭐ 1 | 🐛 2 | 🌐 PowerShell | 📅 2026-10-08
+* [bicep-fabric-extension](https://github.com/awood-ops/bicep-fabric-extension) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-09-10
 * [AzInsider Dave Rendon](https://github.com/daveRendon)
 * [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
 
@@ -375,11 +379,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-* [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions) ⭐ 3,659 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-22
+* [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions) ⭐ 3,658 | 🐛 1,073 | 🌐 Bicep | 📅 2026-10-23
 * [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 * [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
 * [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

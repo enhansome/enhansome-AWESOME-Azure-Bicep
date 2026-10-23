@@ -17,11 +17,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:20:16Z",
+                "last_commit": "2026-10-23T17:09:06Z",
                 "open_issues": 1073,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3659,
+                "stars": 3658,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -42,11 +42,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:20:16Z",
+                "last_commit": "2026-10-23T17:09:06Z",
                 "open_issues": 1073,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3659,
+                "stars": 3658,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -74,11 +74,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:20:16Z",
+                "last_commit": "2026-10-23T17:09:06Z",
                 "open_issues": 1073,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3659,
+                "stars": 3658,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -130,8 +130,8 @@
                 "id": 447791597,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-22T16:06:28Z",
-                "open_issues": 298,
+                "last_commit": "2026-10-23T16:18:55Z",
+                "open_issues": 300,
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
                 "stars": 742,
@@ -185,8 +185,8 @@
                 "id": 660211576,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-19T11:42:48Z",
-                "open_issues": 272,
+                "last_commit": "2026-10-22T22:53:04Z",
+                "open_issues": 271,
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
                 "stars": 586,
@@ -315,7 +315,7 @@
                 "open_issues": 6,
                 "owner": "Azure",
                 "repo": "azure-docs-bicep-samples",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
@@ -479,7 +479,7 @@
                 "open_issues": 18,
                 "owner": "kewalaka",
                 "repo": "az-bootstrap",
-                "stars": 34,
+                "stars": 33,
                 "topics": [
                   "bicep",
                   "github",
@@ -601,8 +601,8 @@
                 "id": 125832556,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-22T17:47:32Z",
-                "open_issues": 92,
+                "last_commit": "2026-10-23T15:03:53Z",
+                "open_issues": 94,
                 "owner": "microsoft",
                 "repo": "PSRule",
                 "stars": 474,
@@ -843,7 +843,7 @@
                 "id": 1112425737,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T15:08:18Z",
+                "last_commit": "2026-10-23T11:05:02Z",
                 "open_issues": 2,
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
@@ -1141,6 +1141,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudflare Bicep Extension (Experimental)",
+              "description": "riosengineer/cloudflare-bicep-deploy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Cloudflare Bicep Local Deploy extension to deploy DNS records to Cloudflare & more.",
+                "homepage": null,
+                "id": 1060757708,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-08-05T19:14:26Z",
+                "open_issues": 7,
+                "owner": "riosengineer",
+                "repo": "cloudflare-bicep-deploy",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T17:53:23.691Z"
             },
             {
               "node_type": "item",
@@ -1464,6 +1485,27 @@
             },
             {
               "node_type": "item",
+              "title": "AVM Updater",
+              "description": "GetToThe-Cloud/avm-updater",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1283909623,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-09-22T12:42:00Z",
+                "open_issues": 0,
+                "owner": "GetToThe-Cloud",
+                "repo": "avm-updater",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T17:53:23.691Z"
+            },
+            {
+              "node_type": "item",
               "title": "Azure Update Manager Accelerator",
               "description": "ThojoUno/aumAccelerator",
               "children": [],
@@ -1587,6 +1629,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bicep-fabric-extension",
+              "description": "awood-ops/bicep-fabric-extension",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Bicep local extension for Microsoft Fabric workspaces, plus the Entra/Key Vault/capacity IaC around it. From the awood.tech blog post.",
+                "homepage": null,
+                "id": 1315471089,
+                "language": "C#",
+                "license": null,
+                "last_commit": "2026-09-10T16:35:11Z",
+                "open_issues": 0,
+                "owner": "awood-ops",
+                "repo": "bicep-fabric-extension",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-23T17:53:23.691Z"
             }
           ],
           "description": null,
@@ -1607,11 +1670,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-22T09:20:16Z",
+                "last_commit": "2026-10-23T17:09:06Z",
                 "open_issues": 1073,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3659,
+                "stars": 3658,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -1630,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:00:31.313Z",
+    "last_updated": "2026-10-23T17:53:23.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz",
@@ -1638,7 +1701,7 @@
       "id": 447450585,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-17T20:25:56Z",
+      "last_commit": "2026-10-23T04:16:07Z",
       "open_issues": 5,
       "owner": "ElYusubov",
       "repo": "AWESOME-Azure-Bicep",
@@ -1659,7 +1722,7 @@
         "learn-azure-bicep"
       ]
     },
-    "original_repository_sha": "1a3a18a04be871df9b990ccb87ed85a23c975549",
+    "original_repository_sha": "2fd961e695de4612d7fd5c1ecdab6b40b67ca539",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
     "enhanced_repository_description": null,
     "title": "AWESOME Azure Bicep 💪 with stars"
