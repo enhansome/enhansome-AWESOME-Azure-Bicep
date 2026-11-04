@@ -17,11 +17,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:55:26Z",
+                "last_commit": "2026-11-04T19:16:52Z",
                 "open_issues": 1067,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -42,11 +42,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:55:26Z",
+                "last_commit": "2026-11-04T19:16:52Z",
                 "open_issues": 1067,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -74,11 +74,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:55:26Z",
+                "last_commit": "2026-11-04T19:16:52Z",
                 "open_issues": 1067,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -130,8 +130,8 @@
                 "id": 447791597,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:03:35Z",
-                "open_issues": 304,
+                "last_commit": "2026-11-04T20:10:15Z",
+                "open_issues": 307,
                 "owner": "Azure",
                 "repo": "bicep-registry-modules",
                 "stars": 743,
@@ -189,7 +189,7 @@
                 "open_issues": 271,
                 "owner": "Azure",
                 "repo": "Azure-Verified-Modules",
-                "stars": 586,
+                "stars": 587,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
@@ -291,7 +291,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-02T15:08:50Z",
-                "open_issues": 528,
+                "open_issues": 529,
                 "owner": "Azure",
                 "repo": "bicep-types-az",
                 "stars": 111,
@@ -704,7 +704,7 @@
                 "open_issues": 1,
                 "owner": "error505",
                 "repo": "azure-cloud-ai-visualizer",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:50.072Z"
@@ -843,8 +843,8 @@
                 "id": 1112425737,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T07:44:08Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-04T07:45:21Z",
+                "open_issues": 3,
                 "owner": "jonathan-vella",
                 "repo": "apex-accelerator",
                 "stars": 50,
@@ -1670,11 +1670,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-03T17:55:26Z",
+                "last_commit": "2026-11-04T19:16:52Z",
                 "open_issues": 1067,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -1693,7 +1693,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:07:45.844Z",
+    "last_updated": "2026-11-04T20:26:28.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz",
@@ -1701,7 +1701,7 @@
       "id": 447450585,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-02T02:28:02Z",
+      "last_commit": "2026-11-03T23:47:57Z",
       "open_issues": 5,
       "owner": "ElYusubov",
       "repo": "AWESOME-Azure-Bicep",
@@ -1722,7 +1722,7 @@
         "learn-azure-bicep"
       ]
     },
-    "original_repository_sha": "cbe4ae6857952107da9e07f1988e84b509bb18cc",
+    "original_repository_sha": "cf2f16f2432184da55af1a3fb4a4a3757c0f5873",
     "enhanced_repository": "enhansome/enhansome-AWESOME-Azure-Bicep",
     "enhanced_repository_description": null,
     "title": "AWESOME Azure Bicep 💪 with stars"
